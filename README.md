@@ -48,12 +48,6 @@ I'm a research professional transitioning into Data Analytics, bringing 4+ years
 
 ---
 
-### 📈 GitHub Stats
-
-![Shreya's GitHub stats](https://github-readme-stats.vercel.app/api?username=Shreya-Tarafdar&show_icons=true&theme=default)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Shreya-Tarafdar&layout=compact)
-
 ---
 
 ### 🎓 Education
