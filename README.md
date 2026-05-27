@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyo-night" />
+  <img src="https://github-readme-stats.vercel.app/api?username=shreya-tarafdar&show_icons=true&theme=tokyo-night" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shreya-tarafdar&layout=compact&theme=tokyo-night" />
 </p>
 
