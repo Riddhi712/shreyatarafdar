@@ -37,14 +37,7 @@ I'm a research professional transitioning into Data Analytics, bringing 4+ years
 
 ---
 
-### 📊 Featured Projects
 
-| Project | Description | Tech |
-|---------|-------------|------|
-| **[Sales Dashboard Analysis](link)** | Interactive Power BI dashboard analyzing sales trends, KPIs, and regional performance | Power BI, Excel |
-| **[SQL Data Exploration](link)** | Complex queries for data extraction, cleaning, and aggregation from multi-table databases | SQL, MySQL |
-| **[Python Data Cleaning](link)** | Automated data preprocessing pipeline using Pandas and NumPy for research datasets | Python, Pandas, NumPy |
-| **[Content Performance Analytics](link)** | Excel-based analytics tracking 50+ real-time metrics to optimize content strategy | Excel, Pivot Tables, VLOOKUP |
 
 ---
 
